@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="click_me">Click Me</string>
+    <string name="zero">0</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="mindOrks">MindOrks</string>
+    <string name="after_academy">After Academy</string>
+    <string name="user">User</string>
+    <string name="likes">Likes !</string>
+    <string name="clicks">Visits !</string>
+</resources>

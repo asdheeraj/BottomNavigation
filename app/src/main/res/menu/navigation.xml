@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_mindorks"
+        android:icon="@drawable/mindorks"
+        android:title="@string/mindOrks"  />
+
+    <item
+        android:id="@+id/navigation_afterAcademy"
+        android:icon="@drawable/afteracademy"
+        android:title="@string/after_academy" />
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/user"
+        android:title="@string/user" />
+
+</menu>
