@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun initListeners() {
         bottomNavigationView.setOnNavigationItemSelectedListener { menuItem ->
-            return@setOnNavigationItemSelectedListener when (menuItem.itemId) {
+            when (menuItem.itemId) {
                 R.id.navigation_mindorks -> {
                     fragmentManager.beginTransaction().hide(activeFragment).show(mindOrksFragment).commit()
                     activeFragment = mindOrksFragment
